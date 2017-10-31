@@ -1,2 +1,2 @@
-# terminal7
-a (fake)web based terminal that will be implemented into something else. As if right now, it can be used as a web-based websocket tester or something.
+#terminal7
+a web-based based terminal that can connect to websockets and send plain-text messages. More features coming eventually, as I still have no idea what I'm going to use this for.
